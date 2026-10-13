@@ -7,4 +7,5 @@ Attendance: 85%
 Result: PASS
 Feature: Attendance Management
 Project: College Management System
+Feature: Student Profile
 Student Profile Feature Added
