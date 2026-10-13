@@ -1,0 +1,7 @@
+College Management System
+Student Name: Kartik Sharma
+Roll Number: 180935
+Department: CSE-Data Science
+Semester: 5
+Attendance: 85%
+Result: PASS
